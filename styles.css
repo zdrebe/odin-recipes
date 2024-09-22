@@ -10,6 +10,7 @@ body {
 .header-one {
     color: #D5C67A;
     text-shadow: 2px 1px white;
+    text-align: center;
 }
 
 .img-main {
@@ -21,4 +22,17 @@ body {
     width: 35%;
 }
 
+.index-list {
+    text-align: center;
+    background-color: #005377;
+    width: 35%;
+    margin: 0 auto;
+    padding: 0;
+    
+}
+
+.inline {
+    display: inline;
+    margin: 0 5px;
+}
 /* https://coolors.co/052f5f-005377-06a77d-d5c67a-f1a208 - color palette */
